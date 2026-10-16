@@ -44,3 +44,4 @@ tools/**/__pycache__/
 #expiremental files ignored
 src.md
 pybuild_deb_debug.sh
+random_test
