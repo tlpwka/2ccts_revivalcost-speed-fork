@@ -6227,7 +6227,7 @@ item(FEAT_TRAINS, item_emu_prr_mp54_ohle, 8100) {}
 // 8996 free
 // 8997 free
 // 8998 free
-// 8999 free
+item(FEAT_TRAINS, item_emu_alsthom_tgv_23000_laposte, 8999) {}
 
 // Multi Unit Metro, available ID range: 9000-9999 (hex 0x2328..0x270F)
 #define ID_RANGE_MULTIMETRO 0x2328..0x270F
